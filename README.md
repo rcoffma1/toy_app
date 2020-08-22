@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # toy_app
 Rails Tutorial Toy App
 =======
@@ -24,6 +23,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
->>>>>>> initial commit
